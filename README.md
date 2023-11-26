@@ -1,2 +1,2 @@
 # DungeonMapping
-A submition for a Hackathon :)
+A submission for a Hackathon :)
